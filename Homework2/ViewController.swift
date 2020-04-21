@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var namefield : String = "Hello I am <Name> and I am  <Age> years old.I love seeing the  seeing the <Color> I also have a  <Pet> that loves to eat <Food>"
+    var namefield : String = "Hello my name is  <Name> and I'm currently a <Age> .I currently stand at <Color>! My favorite movie is <Pet> and I have a pet <Food> at home"
     
     @IBOutlet weak var Name: UITextField!
     @IBOutlet weak var Age: UITextField!
